@@ -3,7 +3,7 @@
 
 | Test Installation |          |        |             |
 |:------------------|:---------|:-------|:------------|
-| **test              | status   | time   | log file**    |
+| **test**          | status   | time   | log file    |
 |                   |          |        |             |
 |                   |          |        |             |
 
