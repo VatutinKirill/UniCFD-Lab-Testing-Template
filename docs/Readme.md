@@ -2,4 +2,4 @@
 
 ### Large image
 
-![Branching](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/final_compact.png)
+![UniCFD_logo](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/small_final_compact.png)
