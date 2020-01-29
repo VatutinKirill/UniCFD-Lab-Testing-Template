@@ -1,48 +1,48 @@
-![Octocat](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/small_final_compact.png)
-# Latest test for OpenDTEF
-
-## Test Installation
-| **№** | **test**          | **status**   | **time**   | **log file**    |
-|:------|:------------------|:---------|:-------|:------------|
-|      1|                   |          |        |             |
-|      2|                   |          |        |             |
-
+![UniCFD_logo](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/small_final_compact.png)
+# Latest tests for OpenDTEF
 * * *
+### Installation Test
+
+| № | test                         | status   | time          | log file |
+|:--|:-----------------------------|:---------|:--------------|:---------|
+|  1| checkOpenDTEFInstallation.sh | OK/FAILD | *** : ** : ** |    ???   |
+|  2| checkPyFoam.sh               | OK/FAILD | *** : ** : ** |    ???   |
+|  3| ??? | (OK/FAILD) | *** : ** : ** | ??? |
 
 ### Quick Test
-| **№** | **test**          | **status**   | **time**   | **log file**    |
-|:------|:------------------|:-------------|:-----------|:----------------|
-|      1|                   |              |            |                 |
-|      2|                   |              |            |                 |
+
+| № | test |   status   |      time     | log file |
+|:--|:-----|:-----------|:--------------|:---------|
+|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
+
+### Models_General Test
+
+| № | test                        | status   | time          | log file    |
+|:--|:----------------------------|:---------|:--------------|:------------|
+|  1| checkCavityLowRe-icoFoam.sh | OK/FAILD | *** : ** : ** |     ???     |
+|  2| ??? | (OK/FAILD) | *** : ** : ** | ??? |
 
 * * *
 
-#### Models_General
-| № | test          | status   | time   | log file    |
-|:------|:------------------|:-------------|:-----------|:----------------|
-|      1|                   |              |        |             |
-|      2|                   |              |        |             |
-
+# Latest tests for DigiTEF
 * * *
+### Installation Test
 
-# Latest test for DigiTEF
-* * *
-## Test Installation
-| **№** | **test**          | **status**   | **time**   | **log file**    |
-|:------|:------------------|:---------|:-------|:------------|
-|      1|                   |          |        |             |
-|      2|                   |          |        |             |
+| № | test |   status   |      time     | log file |
+|:--|:-----|:-----------|:--------------|:---------|
+|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
 
 * * *
 ### Quick Test
-| **№** | **test**          | **status**   | **time**   | **log file**    |
-|:------|:------------------|:-------------|:-----------|:----------------|
-|      1|                   |              |            |                 |
-|      2|                   |              |            |                 |
+
+| № | test |  status    |      time     | log file |
+|:--|:-----|:-----------|:--------------|:---------|
+|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
 
 * * *
-#### Models_General
-| № | test          | status   | time   | log file    |
-|:------|:------------------|:-------------|:-----------|:----------------|
-|      1|                   |              |        |             |
-|      2|                   |              |        |             |
+#### Models_General Test
+
+| № | test |   status   |      time     | log file |
+|:--|:-----|:-----------|:--------------|:---------|
+|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
+
