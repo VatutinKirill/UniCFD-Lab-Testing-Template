@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: true
 ---
 
 ![UniCFD_logo](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/small_final_compact.png)
@@ -11,7 +11,7 @@ The UniCFD Web-laboratory is created on the base of the UniHUB technological pla
 Main areas of activity within the laboratory are: education, consulting, software development, checking calculation, modelling, structural and project design, fundamental researches.
 
 
-[website](https://unicfd.ru/en/).
+[Visit website](https://unicfd.ru/en/).
 
 
 # Latest tests for OpenDTEF
