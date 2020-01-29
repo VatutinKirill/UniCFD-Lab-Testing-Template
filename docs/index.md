@@ -22,9 +22,10 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 ### Quick Test
 
-| № | test |   status   |      time     | log file |
-|:--|:-----|:-----------|:--------------|:---------|
-|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
+| № | test            |   status   |      time     | log file |
+|:--|:----------------|:-----------|:--------------|:---------|
+|  1| backwardStep.sh | (OK/FAILD) | *** : ** : ** |    ???   |
+|  2|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
 
 ### Models_General Test
 
