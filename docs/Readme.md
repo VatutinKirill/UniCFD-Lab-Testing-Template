@@ -5,8 +5,8 @@
 |:-----------------------------------------|
 | test   | status   | time   | log file    |
 |:-------|:---------|:-------|:------------|
-| ok     | | | nice  |
-| out of stock | good and plenty   | 
+|        |          |        |             |
+|        |          |        |             |
 ***
 
 ## Latest test for DigiTEF
