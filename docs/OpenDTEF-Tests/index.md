@@ -4,25 +4,19 @@
 Open-source platform for Digital Test Facility based on OpenFOAM+ library.
 [Download from GitHub](https://github.com/unicfdlab/OpenDTEF).
 
-
 # Tests for OpenDTEF
 
-### Installation Tests
+### [Installation Tests](./Installation-Tests)
 
-| № | test                         | status     | time          | log file |
-|:--|:-----------------------------|:-----------|:--------------|:---------|
-|  1| checkOpenDTEFInstallation.sh | (OK/FAILD) | *** : ** : ** |    ???   |
-|  2| checkPyFoam.sh               | (OK/FAILD) | *** : ** : ** |    ???   |
-|  3| ??? | (OK/FAILD) | *** : ** : ** | ??? |
+1. checkOpenDTEFInstallation
+2. checkPyFoamInstallation
+3. checkSwak4FOAMInstallation
+4. checkCompressibleToolsLib
 
-### Quick Tests
+### [Quick Tests](./Quick-Tests)
 
-| № | test            |   status   |      time     | log file |
-|:--|:----------------|:-----------|:--------------|:---------|
-|  1| backwardStep.sh | (OK/FAILD) | *** : ** : ** |    ???   |
+1. [Backward-Facing Step](./Quick-Tests/Backward-Facing-Step)
 
-### Models General Tests
+### [Models General Tests](./General-Tests)
 
-| № | test                        | status     | time          | log file    |
-|:--|:----------------------------|:-----------|:--------------|:------------|
-|  2| ??? | (OK/FAILD) | *** : ** : ** | ??? |
+1. checkCavityLowRe-icoFoam
