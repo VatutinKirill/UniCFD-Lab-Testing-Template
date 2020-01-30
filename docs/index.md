@@ -10,7 +10,7 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 [Visit website](https://unicfd.ru/en/).
 
 
-# Latest tests for OpenDTEF
+# Latest [tests for OpenDTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/OpenDTEF-Tests)
 
 ### Installation Test
 
@@ -37,7 +37,7 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 * * *
 ***
 
-# Latest tests for DigiTEF
+# Latest [tests for DigiTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/DigiTEF-Tests)
 
 ### Installation Test
 
@@ -53,9 +53,14 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 ### Models_General Test
 
-| № | test |   status   |      time     | log file |
-|:--|:-----|:-----------|:--------------|:---------|
-|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
+| № | test                           |   status   |      time     | log file |
+|:--|:-------------------------------|:-----------|:--------------|:---------|
+|  1|  QGD solver                    | (OK/FAILD) | *** : ** : ** |    ???   |
+|  2|  QHD solver                    | (OK/FAILD) | *** : ** : ** |    ???   |
+|  3|  salinityBoussinesqFoam solver | (OK/FAILD) | *** : ** : ** |    ???   |
+|  4|  hybrid central solver         | (OK/FAILD) | *** : ** : ** |    ???   |
+|  5|  libAcoustics library          | (OK/FAILD) | *** : ** : ** |    ???   |
+|  6|  libSchemes library            | (OK/FAILD) | *** : ** : ** |    ???   |
 
 
 
