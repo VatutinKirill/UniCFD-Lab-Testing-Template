@@ -12,7 +12,7 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 # Latest [tests for OpenDTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/OpenDTEF-Tests)
 
-### Installation Test
+### Installation Tests
 
 | № | test № _ _ _ _ _              | status     | time                     |    duration   | log file |
 |:--|:------------------------------|:-----------|:-------------------------|:--------------|:---------|
@@ -27,7 +27,7 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 |:--|:-----------------------------------------------|:-----------|:-------------------------|:--------------|:---------|
 |  1| [Backward-Facing Step](./OpenDTEF-Tests/Backward-Facing-Step) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Models_General Test
+### Models General Tests
 
 | № | test  № _ _ _ _ _           | status     |           time           |    duration   | log file    |
 |:--|:----------------------------|:-----------|:-------------------------|:--------------|:------------|
@@ -38,20 +38,20 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 # Latest [tests for DigiTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/DigiTEF-Tests)
 
-### Installation Test
+### Installation Tests
 
 | № | test № _ _ _ _ _ |   status   |           time           |    duration   | log file |
 |:--|:-----------------|:-----------|:-------------------------|:--------------|:---------|
 |  1|        ???       | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Quick Test
+### Quick Tests
 
 | № | test № _ _ _ _ _ |  status    |           time           |    duration   | log file |
 |:--|:-----------------|:-----------|:-------------------------|:--------------|:---------|
 |  1|      Cavity      | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  2|       ???        | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Models_General Test
+### Models General Tests
 
 | № | test № _ _ _ _ _  | status |      time       |    duration   | log file |
 |:--|:------------------|:-------|:--------------|:--------------|:---------|
