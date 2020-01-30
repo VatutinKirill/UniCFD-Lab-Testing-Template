@@ -10,9 +10,9 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 [Visit website](https://unicfd.ru/en/).
 
 
-# Latest [tests for OpenDTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/OpenDTEF-Tests)
+# Latest [tests for OpenDTEF](./OpenDTEF-Tests)
 
-### Installation Tests
+### [Installation Tests](./OpenDTEF-Tests/Installation)
 
 | № | test № _ _ _ _ _              | status     | time                     |    duration   | log file |
 |:--|:------------------------------|:-----------|:-------------------------|:--------------|:---------|
@@ -21,13 +21,13 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 |  3| checkSwak4FOAMInstallation.sh | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  4| checkCompressibleToolsLib.sh  | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### [Quick Tests](./OpenDTEF-Tests)
+### [Quick Tests](./OpenDTEF-Tests/Quick-Tests)
 
 | № | test № _ _ _ _ _                               |   status   |           time           |    duration   | log file |
 |:--|:-----------------------------------------------|:-----------|:-------------------------|:--------------|:---------|
-|  1| [Backward-Facing Step](./OpenDTEF-Tests/Backward-Facing-Step) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  1| [Backward-Facing Step](./OpenDTEF-Tests/Quick-Tests/Backward-Facing-Step) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Models General Tests
+### [Models General Tests](./OpenDTEF-Tests/General-Tests)
 
 | № | test  № _ _ _ _ _           | status     |           time           |    duration   | log file    |
 |:--|:----------------------------|:-----------|:-------------------------|:--------------|:------------|
@@ -36,25 +36,25 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 # ***
 
-# Latest [tests for DigiTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/DigiTEF-Tests)
+# Latest [tests for DigiTEF](./DigiTEF-Tests)
 
-### Installation Tests
+### [Installation Tests](./DigiTEF-Tests/Installation)
 
 | № | test № _ _ _ _ _ |   status   |           time           |    duration   | log file |
 |:--|:-----------------|:-----------|:-------------------------|:--------------|:---------|
 |  1|        ???       | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Quick Tests
+### [Quick Tests](./DigiTEF-Tests/Installation)
 
 | № | test № _ _ _ _ _ |  status    |           time           |    duration   | log file |
 |:--|:-----------------|:-----------|:-------------------------|:--------------|:---------|
 |  1|      Cavity      | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  2|       ???        | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Models General Tests
+### [Models General Tests](./DigiTEF-Tests/General-Tests)
 
 | № | test № _ _ _ _ _  | status |      time       |    duration   | log file |
-|:--|:------------------|:-------|:--------------|:--------------|:---------|
+|:--|:------------------|:-------|:----------------|:--------------|:---------|
 |  1 | [QGD & QHD solver](https://github.com/unicfdlab/QGDsolver) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  2| [salinityBoussinesqFoam solver](https://github.com/unicfdlab/salinityBoussinesqPimpleFoam) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
 |  3| [hybrid central solver](https://github.com/unicfdlab/hybridCentralSolvers) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
