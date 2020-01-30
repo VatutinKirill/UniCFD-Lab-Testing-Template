@@ -19,13 +19,13 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 |  1| checkOpenDTEFInstallation.sh  | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  2| checkPyFoamInstallation.sh    | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  3| checkSwak4FOAMInstallation.sh | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
-|  3| checkCompressibleToolsLib.sh  | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  4| checkCompressibleToolsLib.sh  | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
-### Quick Test
+### [Quick Tests](./OpenDTEF-Tests)
 
 | № | test № _ _ _ _ _                               |   status   |           time           |    duration   | log file |
 |:--|:-----------------------------------------------|:-----------|:-------------------------|:--------------|:---------|
-|  1| [Backward-Facing Step](./Backward-Facing-Step) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  1| [Backward-Facing Step](./OpenDTEF-Tests/Backward-Facing-Step) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
 ### Models_General Test
 
