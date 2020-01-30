@@ -14,47 +14,46 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 ### Installation Test
 
-| № | test                         | status     | time          | log file |
-|:--|:-----------------------------|:-----------|:--------------|:---------|
-|  1| checkOpenDTEFInstallation.sh | (OK/FAILD) | *** : ** : ** |    ???   |
-|  2| checkPyFoam.sh               | (OK/FAILD) | *** : ** : ** |    ???   |
-|  3| ??? | (OK/FAILD) | *** : ** : ** | ??? |
+| № | test № _ _ _ _ _              | status     | time                     |    duration   | log file |
+|:--|:------------------------------|:-----------|:-------------------------|:--------------|:---------|
+|  1| checkOpenDTEFInstallation.sh  | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  2| checkPyFoamInstallation.sh    | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  3| checkSwak4FOAMInstallation.sh | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  3| checkCompressibleToolsLib.sh  | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
 ### Quick Test
 
-| № | test            |   status   |      time     | log file |
-|:--|:----------------|:-----------|:--------------|:---------|
-|  1| backwardStep.sh | (OK/FAILD) | *** : ** : ** |    ???   |
-|  2|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
+| № | test № _ _ _ _ _                               |   status   |           time           |    duration   | log file |
+|:--|:-----------------------------------------------|:-----------|:-------------------------|:--------------|:---------|
+|  1| [Backward-Facing Step](./Backward-Facing-Step) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
 ### Models_General Test
 
-| № | test                        | status     | time          | log file    |
-|:--|:----------------------------|:-----------|:--------------|:------------|
-|  1| checkCavityLowRe-icoFoam.sh | (OK/FAILD) | *** : ** : ** |     ???     |
-|  2| ??? | (OK/FAILD) | *** : ** : ** | ??? |
+| № | test  № _ _ _ _ _           | status     |           time           |    duration   | log file    |
+|:--|:----------------------------|:-----------|:-------------------------|:--------------|:------------|
+|  1| checkCavityLowRe-icoFoam.sh | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |     ???     |
+|  2|             ???             | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |     ???     |
 
-* * *
-***
+# ***
 
 # Latest [tests for DigiTEF](https://vatutinkirill.github.io/UniCFD-Lab-Testing/DigiTEF-Tests)
 
 ### Installation Test
 
-| № | test |   status   |      time     | log file |
-|:--|:-----|:-----------|:--------------|:---------|
-|  1|  ??? | (OK/FAILD) | *** : ** : ** |    ???   |
+| № | test № _ _ _ _ _ |   status   |           time           |    duration   | log file |
+|:--|:-----------------|:-----------|:-------------------------|:--------------|:---------|
+|  1|        ???       | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
 ### Quick Test
 
-| № | test   |  status    |      time     | log file |
-|:--|:-------|:-----------|:--------------|:---------|
-|  1| Cavity | (OK/FAILD) | *** : ** : ** |    ???   |
-|  2|  ???   | (OK/FAILD) | *** : ** : ** |    ???   |
+| № | test № _ _ _ _ _ |  status    |           time           |    duration   | log file |
+|:--|:-----------------|:-----------|:-------------------------|:--------------|:---------|
+|  1|      Cavity      | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  2|       ???        | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 
 ### Models_General Test
 
-| № | test № _ _ _ _ _  | status |      time     |    duration   | log file |
+| № | test № _ _ _ _ _  | status |      time       |    duration   | log file |
 |:--|:------------------|:-------|:--------------|:--------------|:---------|
 |  1 | [QGD & QHD solver](https://github.com/unicfdlab/QGDsolver) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
 |  2| [salinityBoussinesqFoam solver](https://github.com/unicfdlab/salinityBoussinesqPimpleFoam) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
