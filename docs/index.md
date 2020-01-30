@@ -54,7 +54,7 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 | № | test № _ _ _ _ _  | status |      time       |    duration   | log file |
 |:--|:------------------|:-------|:----------------|:--------------|:---------|
 |  1 | [QGD & QHD solver](https://github.com/unicfdlab/QGDsolver) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
-|  2| [salinityBoussinesqFoam solver](https://github.com/unicfdlab/salinityBoussinesqPimpleFoam) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  3| [hybrid central solver](https://github.com/unicfdlab/hybridCentralSolvers) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  4| [libAcoustics library](https://github.com/unicfdlab/libAcoustics) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  5| [libSchemes library](https://github.com/unicfdlab/libSchemes) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
+|  2| [salinityBoussinesqFoam solver](https://github.com/unicfdlab/salinityBoussinesqPimpleFoam) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  3| [hybrid central solver](https://github.com/unicfdlab/hybridCentralSolvers) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  4| [libAcoustics library](https://github.com/unicfdlab/libAcoustics) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  5| [libSchemes library](https://github.com/unicfdlab/libSchemes) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
