@@ -54,14 +54,10 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 
 ### Models_General Test
 
-| № | test № _ _ _ _ _               |   status   |      time     |    duration   |  last success | last failure  | log file |
-|:--|:---------|:-----------|:--------------|:--------------|:--------------|:--------------|:---------|
-|  1|  QGD solver                    | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** ** , 20** ** : ** ** | *** : ** : ** |    ???   |
-|  2|  QHD solver                    | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  3|  salinityBoussinesqFoam solver | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  4|  hybrid central solver         | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  5|  libAcoustics library          | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-|  6|  libSchemes library            | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
-
-
-
+| № | test № _ _ _ _ _  | status |      time     |    duration   | log file |
+|:--|:------------------|:-------|:--------------|:--------------|:---------|
+|  1 | [QGD & QHD solver](https://github.com/unicfdlab/QGDsolver) | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |    ???   |
+|  2| [salinityBoussinesqFoam solver](https://github.com/unicfdlab/salinityBoussinesqPimpleFoam) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
+|  3| [hybrid central solver](https://github.com/unicfdlab/hybridCentralSolvers) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
+|  4| [libAcoustics library](https://github.com/unicfdlab/libAcoustics) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
+|  5| [libSchemes library](https://github.com/unicfdlab/libSchemes) | (OK/FAILD) | *** : ** : ** | *** : ** : ** | *** : ** : ** | *** : ** : ** |    ???   |
