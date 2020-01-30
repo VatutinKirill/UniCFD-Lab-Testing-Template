@@ -1,6 +1,6 @@
-![UniCFD_logo](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/small_final_compact.png)
+[![UniCFD_logo](https://raw.githubusercontent.com/VatutinKirill/UniCFD-Lab-Testing/master/docs/small_final_compact.png)](https://unicfd.ru/en/)
 
-# About UniCFD
+# About [UniCFD](https://unicfd.ru/en/)
 
 The UniCFD Web-laboratory is created on the base of the UniHUB technological platform and is aimed at supporting open community of researchers, whose scientific interests refer to methods of solving continuum mechanic problems using free application packages. The laboratory welcomes new participants.
 
