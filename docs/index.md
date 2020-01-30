@@ -34,8 +34,6 @@ Main areas of activity within the laboratory are: education, consulting, softwar
 |  1| checkCavityLowRe-icoFoam.sh | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |     ???     |
 |  2|             ???             | (OK/FAILD) | mon ** , 20** ** : ** ** | *** : ** : ** |     ???     |
 
-# ***
-
 # Latest [tests for DigiTEF](./DigiTEF-Tests)
 
 ### [Installation Tests](./DigiTEF-Tests/Installation)
